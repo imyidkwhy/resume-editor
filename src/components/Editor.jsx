@@ -46,7 +46,6 @@ const Editor = ({ sections, setSections, theme, setTheme }) => {
   };
 
   const downloadPDF = () => {
-    // Простая имитация скачивания
     alert('Идет скачиваение...');
   };
 
