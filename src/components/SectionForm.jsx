@@ -166,7 +166,7 @@ const SectionForm = ({ section, onUpdate, onDelete, onMove, index }) => {
                 <div className="section-title">
                     <span className="drag-handle">⋮⋮</span>
                     <h3>{getSectionTitle()}</h3>
-                    - </div>
+                </div>
                 <div className="section-controls">
                     <button
                         className="btn-icon"
